@@ -1,0 +1,44 @@
+{
+  "name": "rikusen0335/lang-japanese-extended",
+  "description": "Japanese language pack for Flarum's third-party extensions.",
+  "keywords": [
+    "flarum",
+    "extension",
+    "japanese",
+    "locale",
+    "translation"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^0.1.0-beta.8"
+  },
+  "suggest": {
+    "naga0ka/flarum-ext-japanese": "Japnese"
+  },
+  "support": {
+    "issues": "https://github.com/rikusen0335/lang-japanese-extended/issues",
+    "source": "https://github.com/rikusen0335/lang-japanese-extended/"
+	},
+  "autoload": {
+    "psr-4": {
+      "RIKUSEN0335\\LangJapaneseExtended\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Japanese Extended Pack",
+      "icon": {
+        "name": "far fa-flag",
+        "background": "linear-gradient(90deg, rgb(58, 100, 157) 20%, rgb(209, 62, 50) 80%)",
+        "backgroundSize": "cover",
+        "backgroundPosition": "center",
+        "color": "#FFFFFF"
+      }
+    },
+    "flarum-locale": {
+			"code": "ja",
+			"title": "日本語"
+    },
+  }
+}
