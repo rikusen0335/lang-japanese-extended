@@ -37,8 +37,8 @@
       }
     },
     "flarum-locale": {
-			"code": "ja",
-			"title": "日本語"
+      "code": "ja",
+      "title": "日本語"
     },
   }
 }
