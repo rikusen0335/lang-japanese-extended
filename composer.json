@@ -27,11 +27,6 @@
       "role": "Developer"
     }
   ],
-  "autoload": {
-    "psr-4": {
-      "RIKUSEN0335\\LangJapaneseExtended\\": "src/"
-    }
-  },
   "extra": {
     "flarum-extension": {
       "title": "Japanese Extended Pack",
@@ -44,8 +39,8 @@
       }
     },
     "flarum-locale": {
-      "code": "ja",
-      "title": "Japanese"
+        "code": "ja",
+        "title": "Japanese"
     }
   }
 }
