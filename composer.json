@@ -37,11 +37,11 @@
     "flarum-extension": {
       "title": "Japanese Extended Pack",
       "icon": {
-        "name": "far fa-flag",
-        "background": "linear-gradient(90deg, rgb(58, 100, 157) 20%, rgb(209, 62, 50) 80%)",
+        "name": "fas fa-circle",
+        "background": "#ffffff",
         "backgroundSize": "cover",
         "backgroundPosition": "center",
-        "color": "#FFFFFF"
+        "color": "#FF0000"
       }
     },
     "flarum-locale": {
