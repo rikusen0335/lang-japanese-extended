@@ -19,7 +19,7 @@
   "support": {
     "issues": "https://github.com/rikusen0335/lang-japanese-extended/issues",
     "source": "https://github.com/rikusen0335/lang-japanese-extended/"
-	},
+  },
   "autoload": {
     "psr-4": {
       "RIKUSEN0335\\LangJapaneseExtended\\": "src/"
@@ -39,6 +39,6 @@
     "flarum-locale": {
       "code": "ja",
       "title": "日本語"
-    },
+    }
   }
 }
