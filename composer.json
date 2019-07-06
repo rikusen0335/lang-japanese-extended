@@ -9,17 +9,25 @@
     "translation"
   ],
   "type": "flarum-extension",
+  "minimum-stability": "dev",
   "license": "MIT",
   "require": {
     "flarum/core": "^0.1.0-beta.9"
   },
   "suggest": {
-    "naga0ka/flarum-ext-japanese": "Japnese"
+    "naga0ka/flarum-ext-japanese": "Japanese"
   },
   "support": {
     "issues": "https://github.com/rikusen0335/lang-japanese-extended/issues",
     "source": "https://github.com/rikusen0335/lang-japanese-extended/"
   },
+  "authors": [
+    {
+      "name": "rikusen0335",
+      "email": "rikusen0335@gmail.com",
+      "role": "Developer"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "RIKUSEN0335\\LangJapaneseExtended\\": "src/"
