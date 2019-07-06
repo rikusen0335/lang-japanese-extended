@@ -9,7 +9,6 @@
     "translation"
   ],
   "type": "flarum-extension",
-  "minimum-stability": "dev",
   "license": "MIT",
   "require": {
     "flarum/core": "^0.1.0-beta.9"
@@ -46,7 +45,7 @@
     },
     "flarum-locale": {
       "code": "ja",
-      "title": "日本語"
+      "title": "Japanese"
     }
   }
 }
