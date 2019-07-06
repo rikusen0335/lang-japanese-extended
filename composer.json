@@ -9,11 +9,9 @@
     "translation"
   ],
   "type": "flarum-extension",
-  "minimum-stability": "stable",
   "license": "MIT",
   "require": {
     "flarum/core": "^0.1.0-beta.9",
-    "rikusen0335/lang-japanese-extended": "dev-master"
   },
   "suggest": {
     "naga0ka/flarum-ext-japanese": "Japnese"
