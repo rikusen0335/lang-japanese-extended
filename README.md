@@ -7,7 +7,7 @@ Flarumのサードパーティ製エクステンション用の拡張言語パ�
 Now we are in beta9!  
 beta9に移行しました！
 
-Many thanks to rooaaar for [sample](https://github.com/rooaaar/lang-french-extended)!
+Many thanks to rooaaar for the [sample](https://github.com/rooaaar/lang-french-extended)!
 
 ## Available list / 対応リスト
 - [FriendsOfFlarum/follow-tags](https://github.com/FriendsOfFlarum/follow-tags)
