@@ -35,7 +35,7 @@ fof-follow-tags:
 
   ref:
     follow: フォローする
-    following: フォローしています
-    hiding: 隠れています
+    following: フォローする
+    hiding: 隠す
     ignoring: 無視する
-    lurking: ラークしています
+    lurking: ラークする
