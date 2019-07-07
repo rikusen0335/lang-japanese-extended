@@ -7,7 +7,7 @@ fof-polls:
       vote: 投票する
 
   forum:
-    days_remaining: {time}に投票が終わります。
+    days_remaining: "{time}に投票が終わります。"
     no_permission: あなたは投票する権限を持っていません
     poll_ended: この投票は終了しました。
     public_poll: 投票者を見る
