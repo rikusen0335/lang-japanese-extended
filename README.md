@@ -9,6 +9,9 @@ beta9に移行しました！
 
 Many thanks to rooaaar for the [sample](https://github.com/rooaaar/lang-french-extended)!
 
+### Links / リンク
+Packagist | [Link](https://packagist.org/packages/rikusen0335/lang-japanese-extended)
+
 ## Available list / 対応リスト
 - [FriendsOfFlarum/follow-tags](https://github.com/FriendsOfFlarum/follow-tags)
 - [FriendsOfFlarum/pages](https://github.com/FriendsOfFlarum/pages)
