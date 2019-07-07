@@ -12,6 +12,7 @@ Packagist | [Link](https://packagist.org/packages/rikusen0335/lang-japanese-exte
 ## 対応リスト
 - [FriendsOfFlarum/follow-tags](https://github.com/FriendsOfFlarum/follow-tags)
 - [FriendsOfFlarum/pages](https://github.com/FriendsOfFlarum/pages)
+- [FriendsOfFlarum/polls](https://github.com/FriendsOfFlarum/polls)
 - [FriendsOfFlarum/share-social](https://github.com/FriendsOfFlarum/share-social)
 - [FriendsOfFlarum/user-bio](https://github.com/FriendsOfFlarum/user-bio)
 - [MichaelBelgium/flarum-discussion-views](https://github.com/MichaelBelgium/flarum-discussion-views)
@@ -32,6 +33,7 @@ Packagist | [Link](https://packagist.org/packages/rikusen0335/lang-japanese-exte
 ## Available list
 - [FriendsOfFlarum/follow-tags](https://github.com/FriendsOfFlarum/follow-tags)
 - [FriendsOfFlarum/pages](https://github.com/FriendsOfFlarum/pages)
+- [FriendsOfFlarum/polls](https://github.com/FriendsOfFlarum/polls)
 - [FriendsOfFlarum/share-social](https://github.com/FriendsOfFlarum/share-social)
 - [FriendsOfFlarum/user-bio](https://github.com/FriendsOfFlarum/user-bio)
 - [MichaelBelgium/flarum-discussion-views](https://github.com/MichaelBelgium/flarum-discussion-views)
