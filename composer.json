@@ -14,7 +14,7 @@
     "flarum/core": "^0.1.0-beta.9"
   },
   "suggest": {
-    "setsunaMC/flarum-ext-japanese": "Flarum language package for Japanese."
+    "n04h/flarum-ext-japanese": "Flarum language package for Japanese."
   },
   "support": {
     "issues": "https://github.com/rikusen0335/lang-japanese-extended/issues",
