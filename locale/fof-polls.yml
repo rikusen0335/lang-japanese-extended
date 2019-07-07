@@ -38,7 +38,7 @@ fof-polls:
 
     tooltip:
       badge: 投票
-      votes: "1票|{count}票"
+      votes: "{count}票"
 
     votes_modal:
       title: 投票者
