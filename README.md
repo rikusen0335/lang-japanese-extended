@@ -10,6 +10,7 @@ beta9に移行しました！
 Many thanks to rooaaar for [sample](https://github.com/rooaaar/lang-french-extended)!
 
 ## Available list / 対応リスト
+- [FriendsOfFlarum/follow-tags](https://github.com/FriendsOfFlarum/follow-tags)
 - [FriendsOfFlarum/pages](https://github.com/FriendsOfFlarum/pages)
 - [FriendsOfFlarum/share-social](https://github.com/FriendsOfFlarum/share-social)
 - [ReFlar/reactions](https://github.com/ReFlar/reactions)
