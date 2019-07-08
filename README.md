@@ -6,16 +6,16 @@ Other Languages | [English](/README/README_en.md)
 ~~現在はbeta8ブランチで作業していますが、将来にbeta9ブランチに移行する可能性もあります。~~   
 beta9に移行しました！  
 
-このコマンドを**Flarumのルートディレクトリで**打って、翻訳をインストールしよう:
+このコマンドを**Flarumのルートディレクトリで**打って、翻訳をインストールしよう:  
 `composer require rikusen0335/lang-japanese-extended`
 
-アップデートしたい場合は、このコマンドで:
+アップデートしたい場合は、このコマンドで:  
 `composer update rikusen0335/lang-japanese-extended`
 
-削除は:
+削除は:  
 `composer remove rikusen0335/lang-japanese-extended`
 
-あ、あとアップデートしたらこのコマンドも打つのを忘れないでね！
+あ、あとアップデートしたらこのコマンドも打つのを忘れないでね！  
 `php flarum cache:clear`  
 
 
