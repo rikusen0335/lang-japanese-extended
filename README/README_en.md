@@ -6,6 +6,19 @@ Other Languages | [Japanese](/)
 ~~Currently working on beta8 branch, but it may switch to beta9 branch in the future.~~  
 Now we are in beta9!  
 
+You only need to install is to type this command in flarum root directory:
+`composer require rikusen0335/lang-japanese-extended`
+
+And also you can update to use following command:
+`composer update rikusen0335/lang-japanese-extended`
+
+And delete:
+`composer remove rikusen0335/lang-japanese-extended`
+
+Don't forget to type this command when updated this translation!
+`php flarum cache:clear`  
+
+
 Many thanks to rooaaar for the [sample](https://github.com/rooaaar/lang-french-extended)!
 
 ### Links
