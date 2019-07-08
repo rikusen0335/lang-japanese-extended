@@ -18,6 +18,7 @@ Packagist | [Link](https://packagist.org/packages/rikusen0335/lang-japanese-exte
 - [FriendsOfFlarum/share-social](https://github.com/FriendsOfFlarum/share-social)
 - [FriendsOfFlarum/user-bio](https://github.com/FriendsOfFlarum/user-bio)
 - [FriendsOfFlarum/user-directory](https://github.com/FriendsOfFlarum/user-directory)
+- [matteocontrini/flarum-imgur-upload](https://github.com/matteocontrini/flarum-imgur-upload)
 - [MichaelBelgium/flarum-discussion-views](https://github.com/MichaelBelgium/flarum-discussion-views)
 - [ReFlar/reactions](https://github.com/ReFlar/reactions)
 - [saleksin/flarum-auth-google](https://github.com/saleksin/flarum-auth-google)
