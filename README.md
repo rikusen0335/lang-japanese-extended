@@ -25,6 +25,7 @@ beta9に移行しました！
 Packagist | [Link](https://packagist.org/packages/rikusen0335/lang-japanese-extended)
 
 ## 対応リスト
+- [FriendsOfFlarum/analytics](https://github.com/FriendsOfFlarum/analytics)
 - [FriendsOfFlarum/follow-tags](https://github.com/FriendsOfFlarum/follow-tags)
 - [FriendsOfFlarum/pages](https://github.com/FriendsOfFlarum/pages)
 - [FriendsOfFlarum/polls](https://github.com/FriendsOfFlarum/polls)
