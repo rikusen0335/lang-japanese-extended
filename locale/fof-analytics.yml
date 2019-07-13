@@ -15,7 +15,7 @@ flagrow-analytics:
         piwikSiteId: サイトID
         piwikTrackSubdomain: Flarumのサブドメインにアクセスしているビジターもトラックする
         piwikPrependDomain: トラッキング時にサイトドメインをページタイトルの前に追加する
-        piwikHideAliasUrl: [アウトリンク]レポートで、既知のエイリアスURLに対するクリックを非表示にする
+        piwikHideAliasUrl: "[アウトリンク]レポートで、既知のエイリアスURLに対するクリックを非表示にする"
         piwikAliasUrl: エイリアスURL
         piwikTrackAccounts: ユーザー個人個人をトラックする
         piwikAuthToken: 認証トークン
