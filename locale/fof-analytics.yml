@@ -22,8 +22,8 @@ flagrow-analytics:
 
       placeholder:
         piwikAuthToken: |
-            ここにトークンをいれることでアドミンパネルのPiwik(matomo)ステータスタブを有効化します。
-            トークンはSettings > Personal > API Authentication Tokenにあります。
+            Fill this token to enable a Piwik stats tab in the admin panel.
+            You can find it in Settings > Personal > API Authentication Token.
       trackAccounts:
         none: トラックしない
         username: ユーザーネームをトラックする
