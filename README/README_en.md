@@ -26,6 +26,7 @@ Packagist | [Link](https://packagist.org/packages/rikusen0335/lang-japanese-exte
 
 ## Available list
 - [FriendsOfFlarum/analytics](https://github.com/FriendsOfFlarum/analytics)
+- [FriendsOfFlarum/auth-discord](https://github.com/FriendsOfFlarum/auth-discord)
 - [FriendsOfFlarum/follow-tags](https://github.com/FriendsOfFlarum/follow-tags)
 - [FriendsOfFlarum/pages](https://github.com/FriendsOfFlarum/pages)
 - [FriendsOfFlarum/polls](https://github.com/FriendsOfFlarum/polls)
